@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics / Data Science.
 - 🌱 I’m currently pursuing a Master's Degree in Data Science at DePaul University.
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me: jleniart@depaul.edu
+- 📫 How to reach me: jcleniart@gmail.com or jleniart@depaul.edu
 
 <!---
 jleniart/jleniart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
